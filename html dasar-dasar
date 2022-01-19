@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+      <title>  koding </title>
+      <meta charset="UTF-8">
+    </head>
+    
+     <body>
+         
+         <div>
+         <!-- Menu website -->
+         <a href="Part8.html">Part8</a>
+         <a href="Part16.html">Part16</a>
+         </div>
+         
+         <!-- bagian awal, isinya tag heading -->
+         
+         <div>
+        <h1> Sekolah koding </h1>
+        <h2> tutorial online untuk belajar <span> membuat website</span> </h2>
+        </div>
+        
+        <!-- konten dari websitenya -->
+        <div>
+        <p> Selamat datang di <br> sekolah koding </p>
+        
+        <a href="https://facebook.com"> websitenya Facebook</a>
+        <a href="https://Twitter.com" target="_blank"> websitenya Twitter </a>
+        <img src="gambar/gambar.jpg" alt="tulisan Sekolah koding" height="200" width="300">
+        </div>
+        
+        <!-- tentang formating dan iframe -->
+        <div>
+        
+        <iframe src="https://Wikipedia.com" height="500" width="500"></iframe>
+        
+        <p> kita akan <em>belajar</em> cara memformat <i>text</i> pada <b>html</b> </p>
+        </div>
+        
+        </body>
+</html>
